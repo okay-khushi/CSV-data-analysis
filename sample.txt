@@ -1,0 +1,5 @@
+The sun was shining brightly in the sky.
+Birds were chirping, and the air smelled like fresh rain.
+This is a simple test file with multiple lines.
+Some lines are long, others short.
+Let's see how well your Python program works!
